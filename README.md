@@ -1,7 +1,9 @@
 
 <!-- <img src="https://i.imgur.com/536JNd9.jpg" width="100%">
  -->
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 
  Hi, I am a Full-Stack web developer based in Belfast United Kingdom. I am inspired by the range of technology and it's potential for bleeding edge discoveries in the optimization of care in the health settting. I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies and solve problems on Codewars. I have a background in Nursing and Math.
