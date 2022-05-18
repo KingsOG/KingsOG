@@ -86,7 +86,7 @@ See [my website](https://kingscode.netlify.app) for more information!
       <h3 align="center">Restuarant website project</h3>
         <br />
         <a target="_blank" href="https://kingsrestuarant.netlify.app">
-          <img src="images/gif3.gif" width="100%" alt="Restuarant Website Project"/>
+          <img src="https://github.com/KingsOG/mediafilesforReadme/blob/main/restuarant.gif" width="100%" alt="Restuarant Website Project"/>
         </a>
         <br />
         <p align="center">
