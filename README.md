@@ -154,3 +154,13 @@ See [my website](https://kingscode.netlify.app) for more information!
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
 </p>
+
+---
+
+<div align="center">
+<h1 align=center> :fire: My Stats :</h1>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kingsog&theme=dark&background=000000)](https://git.io/streak-stats)
+
+ </div>
