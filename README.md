@@ -69,7 +69,7 @@ See [my website](https://kingscode.netlify.app) for more information!
       <h3 align="center">KingsCode.netlify.app</h3>
       <br />
         <a target="_blank" href="https://kingscode.netlify.app">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/KingsOG/mediafilesforReadme/blob/main/portfolio.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
