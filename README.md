@@ -30,7 +30,7 @@ See [my website](https://kingscode.netlify.app) for more information!
       <h3 align="center">KinsCuts.netlify.app</h3>
         <br />
         <a target="_blank" href="https://kinscuts.netlify.app">
-            <img src="images/gif1.gif" width="100%" alt="Barbershop website"/>
+            <img src="https://github.com/KingsOG/mediafilesforReadme/blob/main/Kinscut.gif" width="100%" alt="Barbershop website"/>
         </a>
         <br />
         <p align="center">
