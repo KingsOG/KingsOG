@@ -48,7 +48,7 @@ See [my website](https://kingscode.netlify.app) for more information!
       <h3 align="center">Clickcleaners.co.uk</h3>
         <br />
       <a target="_blank" href="http://www.clickcleaners.co.uk">
-            <img src="images/gif2.gif" width="100%"  alt="Commercial cleaning website"/>
+            <img src="https://github.com/KingsOG/mediafilesforReadme/blob/main/clickcleaners.gif" width="100%"  alt="Commercial cleaning website"/>
         </a>
         <br />
         <p align="center">
