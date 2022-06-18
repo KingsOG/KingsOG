@@ -101,6 +101,45 @@ See [my website](https://kingscode.netlify.app) for more information!
         <p><strong>HTML5, CSS3</strong> -Restuarant weekend project I built ground up!</p>
     </td>
   </tr>
+ 
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Star Wars Quote App</h3>
+      <br />
+        <a target="_blank" href="">
+          <img src="" width="100%" alt=""/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://kingscode.netlify.app" target="_blank">
+    <img src="https://github.com/KingsOG/mediafilesforReadme/blob/main/starwars-crud-app-picture1.png"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript, Node.js, MongoDB </strong> - An app that takes in new quotes from Yoda and replaces that quote with that of Darth Vader</p>
+    </td>
+<!--     <td width="50%" valign="top">
+      <h3 align="center">Restuarant website project</h3>
+        <br />
+        <a target="_blank" href="https://kingsrestuarant.netlify.app">
+          <img src="https://github.com/KingsOG/mediafilesforReadme/blob/main/restuarant.gif" width="100%" alt="Restuarant Website Project"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/kingsog" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://kingsrestuarant.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3</strong> -Restuarant weekend project I built ground up!</p>
+    </td> -->
+  </tr>
+ 
 </table>
 
 
