@@ -120,11 +120,11 @@ See [my website](https://kingscode.netlify.app) for more information!
       </p>
         <p><strong>HTML5, CSS3, & Javascript, Node.js, MongoDB </strong> - An app that takes in new quotes from Yoda and replaces that quote with that of Darth Vader</p>
     </td>
-<!--     <td width="50%" valign="top">
-      <h3 align="center">Restuarant website project</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Nurses Diary App</h3>
         <br />
-        <a target="_blank" href="https://kingsrestuarant.netlify.app">
-          <img src="https://github.com/KingsOG/mediafilesforReadme/blob/main/restuarant.gif" width="100%" alt="Restuarant Website Project"/>
+        <a target="_blank" href="#">
+          <img src="https://github.com/KingsOG/mediafilesforReadme/blob/main/nurses-dairy-app.gif" width="100%" alt="nurses diary app"/>
         </a>
         <br />
         <p align="center">
@@ -132,12 +132,12 @@ See [my website](https://kingscode.netlify.app) for more information!
   <a href="https://github.com/kingsog" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://kingsrestuarant.netlify.app" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3</strong> -Restuarant weekend project I built ground up!</p>
-    </td> -->
+        <p><strong>HTML, CSS, JS: An app that NURSES can use to log their daily dairy records of things to do. I am still working on making some new changes to the app.</p>
+    </td>
   </tr>
  
 </table>
