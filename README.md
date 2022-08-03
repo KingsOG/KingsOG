@@ -118,7 +118,7 @@ See [my website](https://kingscode.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript, Node.js, MongoDB </strong> - An app that takes in new quotes from Yoda and replaces that quote with that of Darth Vader</p>
+        <p><strong>HTML5, CSS3, & Javascript, Node.js, MongoDB </strong> - A CRUD app that takes in new quotes and replaces that quote with another.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Nurses Diary App</h3>
@@ -136,7 +136,7 @@ See [my website](https://kingscode.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JS: An app that NURSES can use to log their daily dairy records of things to do. I am still working on making some new changes to the app.</p>
+        <p><strong>HTML, CSS, JS: A CRUD app that NURSES can use to log their daily dairy records of TASKS.</p>
     </td>
   </tr>
  
