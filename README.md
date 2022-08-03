@@ -139,6 +139,45 @@ See [my website](https://kingscode.netlify.app) for more information!
         <p><strong>HTML, CSS, JS: A CRUD app that NURSES can use to log their daily dairy records of TASKS.</p>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Movie Finder App</h3>
+      <br />
+        <a target="_blank" href="">
+          <img src="" width="100%" alt=""/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://movie-finder-search-app.herokuapp.com" target="_blank">
+    <img src="https://github.com/KingsOG/mediafilesforReadme/blob/main/autocomplete-app.gif"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>EJS, CSS3, & Javascript, Node.js, MongoDB, API </strong> - A CRUD app that searches for a movie and returns suggestions in realtime as user types in the seach bar.</p>
+    </td>
+<!--     <td width="50%" valign="top">
+      <h3 align="center">Nurses Diary App</h3>
+        <br />
+        <a target="_blank" href="#">
+          <img src="https://github.com/KingsOG/mediafilesforReadme/blob/main/nurses-dairy-app.gif" width="100%" alt="nurses diary app"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/kingsog" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JS: A CRUD app that NURSES can use to log their daily dairy records of TASKS.</p>
+    </td> -->
+  </tr>
+ 
  
 </table>
 
